@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-<a href="">Clique aqui para vizualizar a Demonstração</a>
+<a href="https://iagoit.github.io/spotify-clone/">Clique aqui para vizualizar a Demonstração</a>
 </h3>
 
 <br>
