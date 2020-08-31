@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="imagens/logo.png">
+    <img src="imagens/spotify.png">
 </h1>
 
 
@@ -41,10 +41,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/iagoit/jm-viagens
+    $ git clone https://github.com/iagoit/spotify-clone
 
     # Entrar no diretório
-    $ cd jm-viagens
+    $ cd spotify-clone
 
     # Instalar as dependências
     $ yarn install
